@@ -1,2 +1,2 @@
 # UTC-N
-My work during Computers and Information Technolgy studying.
+My work during Computers and Information Technology studying.
