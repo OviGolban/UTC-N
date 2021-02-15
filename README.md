@@ -1,2 +1,2 @@
 # UTC-N
-Materials accomplished for seminar, lab or lecture activity.
+My work during Computers and Information Technolgy studying.
