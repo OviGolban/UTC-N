@@ -9,6 +9,6 @@ My work during Computers and Information Technology studying.
   *Second semester*
 + [Programming Techniques](https://github.com/OviGolban/Programming-Techniques)
 + [Computer Architecture](https://github.com/OviGolban/Computer-Architecture)
-+ [Operating Systems] (https://github.com/OviGolban/Operating-Systems)
++ [Operating Systems](https://github.com/OviGolban/Operating-Systems)
 
 
