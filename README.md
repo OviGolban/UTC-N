@@ -11,4 +11,7 @@ My work during Computers and Information Technology studying.
 + [Computer Architecture](https://github.com/OviGolban/Computer-Architecture)
 + [Operating Systems](https://github.com/OviGolban/Operating-Systems)
 
+# **Third year**
+  *First semester*
+
 
