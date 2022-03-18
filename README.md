@@ -15,6 +15,7 @@ My work during Computers and Information Technology studying.
   *First semester*
 + [Graphic Processing](https://github.com/OviGolban/Graphic-Processing)
 + [Design with microProcessors](https://github.com/OviGolban/Design-with-microProcessors)
++ [Artificial Intelligence](https://github.com/OviGolban/Artificial-Intelligence)
 
   *Second semester*
 
