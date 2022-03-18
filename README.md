@@ -19,4 +19,5 @@ My work during Computers and Information Technology studying.
 + [Software Engineering](https://github.com/OviGolban/Software-Engineering)
 
   *Second semester*
+  + [Logic Programming](https://github.com/OviGolban/Logic-Programming)
 
