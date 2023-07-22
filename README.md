@@ -26,7 +26,7 @@ My work during Computers and Information Technology studying.
 # **Fourth year**
   *First semester*
 + [Database Administration](https://github.com/OviGolban/Database-Administration)
-+ [Distributes Systems](https://github.com/OviGolban/Distributed-Systems)
++ [Distributed Systems](https://github.com/OviGolban/Distributed-Systems)
 + [Multimedia Technologies](https://github.com/OviGolban/Multimedia-Technologies)
 + [Expert Systems](https://github.com/OviGolban/Expert-Systems)
 
