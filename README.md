@@ -30,7 +30,10 @@ My work during Computers and Information Technology studying.
 + [Multimedia Technologies](https://github.com/OviGolban/Multimedia-Technologies)
 + [Expert Systems](https://github.com/OviGolban/Expert-Systems)
 
+
   *Second semester*
 + [Web Application Development](https://github.com/OviGolban/Web-application-development)
++ [Computer Networks Project](https://github.com/OviGolban/Computer-Networks-Project)
++ [Wireless technology and Mobile Devices](https://github.com/OviGolban/Wireless-technology-and-mobile-devices)
   
 
